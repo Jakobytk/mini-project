@@ -92,7 +92,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-/*Getting rid of id on html side, because there is no need*/
+/*Getting rid of id on html side, because there is no need
+images had to be copied over so all src will look dif*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
